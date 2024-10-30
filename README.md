@@ -1,4 +1,4 @@
-# LANGKAH--LANGKAH-INSTAL-DNS-DI-DEBIAN-10
+# LANGKAH---LANGKAH-INSTAL-DNS-DI-DEBIAN-10
 perbarui paket sistem
 instal bind9
 konfigurasi bind9
